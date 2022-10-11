@@ -1,0 +1,15 @@
+.title {
+  font-family: 'Verdana', sans-serif;
+}
+
+.body-text {
+  font-family: "Arial", sans-serif;
+}
+
+.dish-img {
+  display: block;
+  height: auto;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
